@@ -1,0 +1,453 @@
+val_mssg,val_spam
+"['like', 'love', 'arrange']",ham
+"['yo', 'call', 'get', 'chance', 'friend', 'mine', 'wanted', 'ask', 'big', 'order']",ham
+"['film', 'ill', 'call', 'later']",ham
+"['dai', 'da', 'send', 'resume', 'id']",ham
+"['want', 'funk', 'ur', 'fone', 'weekly', 'new', 'tone', 'reply', 'tones2u', '2', 'text', 'www', 'ringtones', 'co', 'uk', 'original', 'n', 'best', 'tones', '3gbp', 'network', 'operator', 'rate', 'apply']",spam
+"['449071512431', 'urgent', '2nd', 'attempt', 'contact', 'u', 'u', '1250', 'call', '09071512433', 'b4', '050703', 'csbcm4235wc1n3xx', 'callcost', '150ppm', 'mobilesvary', 'max', '7', '50']",spam
+"['askd', 'u', 'question', 'hour', 'answer']",ham
+"['lol', 'u', 'come', 'idea']",ham
+"['way', 'school', 'pls', 'send', 'ashley', 'number']",ham
+"['bothering', 'trust', 'answer', 'pls']",ham
+"['alrite', 'girl', 'u', 'know', 'gail', 'neva', 'wrong', 'take', 'care', 'sweet', 'worry', 'c', 'u', 'l8tr', 'hun', 'love', 'yaxxx']",ham
+"['wot', 'u', '2', 'j']",ham
+"['day', 'ü', 'say', 'ü', 'cut', 'ur', 'hair', 'paragon', 'called', 'hair', 'sense', 'ü', 'noe', 'much', 'hair', 'cut']",ham
+"['hello', 'peach', 'cake', 'tasts', 'lush']",ham
+"['ok', 'sweet', 'dream']",ham
+"['yep', 'great', 'loxahatchee', 'xmas', 'tree', 'burning', 'lt', 'gt', 'start', 'hour']",ham
+"['guy', 'go', 'see', 'movie', 'side']",ham
+"['aiyo', 'please', 'ü', 'got', 'time', 'meh']",ham
+"['real', 'u', 'getting', 'yo', 'need', '2', 'ticket', 'one', 'jacket', 'done', 'already', 'used', 'multis']",ham
+"['lunch', 'come', 'quickly', 'open', 'door']",ham
+"['u', 'still', 'going', 'mall']",ham
+"['recpt', '1', '3', 'ordered', 'ringtone', 'order', 'processed']",spam
+"['forget', 'tell', 'want', 'need', 'crave', 'love', 'sweet', 'arabian', 'steed', 'mmmmmm', 'yummy']",ham
+"['kit', 'strip', 'billed', '150p', 'netcollex', 'ltd', 'po', 'box', '1013', 'ig11', 'oja']",spam
+"['u', 'repeat', 'e', 'instruction', 'wat', 'e', 'road', 'name', 'ur', 'house']",ham
+"['vl', 'bcum', 'difficult']",ham
+"['senthil', 'group', 'company', 'apnt', '5pm']",ham
+"['sure', 'checking', 'happening', 'around', 'area']",ham
+"['whens', 'radio', 'show']",ham
+"['awarded', 'sipix', 'digital', 'camera', 'call', '09061221061', 'landline', 'delivery', 'within', '28days', 'cs', 'box177', 'm221bp', '2yr', 'warranty', '150ppm', '16', 'p', 'p', '3', '99']",spam
+"['ü', 'dun', 'wan', 'watch', 'infernal', 'affair']",ham
+"['inside', 'office', 'still', 'filling', 'form', 'know', 'leave']",ham
+"['sorry', 'call', 'later']",ham
+"['wanna', 'watch', 'movie']",ham
+"['v', 'romantic']",ham
+"['thesmszone', 'com', 'let', 'send', 'free', 'anonymous', 'masked', 'message', 'im', 'sending', 'message', 'see', 'potential', 'abuse']",spam
+"['want', 'send', 'virtual', 'hug', 'need', 'one']",ham
+"['sorry', 'call', 'later']",ham
+"['tyler', 'getting', '8th', 'leave', 'long', '9', 'get', 'like', 'hour']",ham
+"['nokia', '7250i', 'get', 'win', 'free', 'auction', 'take', 'part', 'send', 'nokia', '86021', 'hg', 'suite342', '2lands', 'row', 'w1jhl', '16']",spam
+"['dunno', 'lei', 'shd', 'b', 'driving', 'lor', 'co', 'go', 'sch', '1', 'hr', 'oni']",ham
+"['guaranteed', 'latest', 'nokia', 'phone', '40gb', 'ipod', 'mp3', 'player', '500', 'prize', 'txt', 'word', 'collect', '83355', 'ibhltd', 'ldnw15h', '150p', 'mtmsgrcvd18']",spam
+"['though', 'shd', 'go', 'n', 'fun', 'bar', 'town', 'something', 'sound', 'ok']",ham
+"['let', 'know', 'got', 'money', 'carlos', 'make', 'call']",ham
+"['hi', 'engagement', 'fixd', 'lt', 'gt', 'th', 'next', 'month', 'know', 'really', 'shocking', 'bt', 'hmm', 'njan', 'vilikkam', 'w', 'al', 'sudn']",ham
+"['serious', 'like', 'proper', 'tongued']",ham
+"['life', 'spend', 'someone', 'lifetime', 'may', 'meaningless', 'moment', 'spent', 'someone', 'really', 'love', 'mean', 'life']",ham
+"['santa', 'calling', 'would', 'little', 'one', 'like', 'call', 'santa', 'xmas', 'eve', 'call', '09058094583', 'book', 'time']",spam
+"['sorry', 'joined', 'league', 'people', 'dont', 'keep', 'touch', 'mean', 'great', 'deal', 'friend', 'time', 'even', 'great', 'personal', 'cost', 'great', 'week']",ham
+"['believe', 'true', 'incredible', 'txts', 'reply', 'g', 'learn', 'truly', 'amazing', 'thing', 'blow', 'mind', 'o2fwd', '18p', 'txt']",spam
+"['jus', 'finish', 'lunch', 'way', 'home', 'lor', 'tot', 'u', 'dun', 'wan', '2', 'stay', 'sch', 'today']",ham
+"['mum', 'went', '2', 'dentist']",ham
+"['wait', 'till', 'end', 'march', 'el', 'nino', 'get', 'oh']",ham
+"['well', 'going', 'aunty']",ham
+"['could', 'kiss', 'feel', 'next']",ham
+"['waiting', 'call', 'sir']",ham
+"['please', 'call', '08712402972', 'immediately', 'urgent', 'message', 'waiting']",spam
+"['everybody', 'fun', 'evening', 'miss']",ham
+"['still', 'chance', 'search', 'hard', 'get', 'let', 'try']",ham
+"['long', 'since', 'screamed', 'princess']",ham
+"['hard', 'true', 'much', 'show', 'amp', 'express', 'love', 'someone', 'much', 'hurt', 'leave', 'get', 'seperated', '鈥', '〨ud', 'evening']",ham
+"['hello', 'baby', 'get', 'back', 'mom', 'setting', 'computer', 'filling', 'belly', 'go', 'loverboy', 'miss', 'already', 'sigh']",ham
+"['hey', 'company', 'elama', 'po', 'mudyadhu']",ham
+"['tonight', 'mate', 'catching', 'sleep', 'new', 'number', 'way']",ham
+"['japanese', 'proverb', 'one', 'u', 'none', 'u', 'must', 'indian', 'version', 'one', 'let', 'none', 'leave', 'finally', 'kerala', 'version', 'one', 'stop', 'none', 'make', 'strike']",ham
+"['k', 'call', 'close']",ham
+"['hello', 'site', 'download', 'song', 'urgent', 'pls']",ham
+"['u', 'win', '100', 'music', 'gift', 'vouchers', 'every', 'week', 'starting', 'txt', 'word', 'draw', '87066', 'tscs', 'www', 'ldew', 'com', 'skillgame', '1winaweek', 'age16', '150ppermesssubscription']",spam
+"['please', 'call', 'customer', 'service', 'representative', 'freephone', '0808', '145', '4742', '9am', '11pm', 'guaranteed', '1000', 'cash', '5000', 'prize']",spam
+"['forwarded', '88877', 'free', 'entry', '250', 'weekly', 'comp', 'send', 'word', 'enter', '88877', '18', 'c', 'www', 'textcomp', 'com']",spam
+"['replying', 'boye', 'changed', 'phone', 'number']",ham
+"['yes', 'know', 'cheesy', 'song', 'frosty', 'snowman']",ham
+"['hope', 'feeling', 'great', 'pls', 'fill', 'abiola']",ham
+"['thnx', 'dude', 'u', 'guy', '2nite']",ham
+"['sad', 'story', 'man', 'last', 'week', 'b', 'day', 'wife', 'nt', 'wish', 'parents', 'forgot', 'n', 'kids', 'went', 'work', 'even', 'colleagues', 'wish']",ham
+['plan'],ham
+"['sure', 'check', 'yahoo', 'email', 'sent', 'photo', 'yesterday']",ham
+"['stop', 'story', 'told', 'returned', 'saying', 'order']",ham
+"['yeah', 'thought', 'lemme', 'know', 'anything', 'goin', 'later']",ham
+"['btw', 'regarding', 'really', 'try', 'see', 'anyone', 'else', '4th', 'guy', 'commit', 'random', 'dude']",ham
+"['ok', 'much', 'though', 'h', 'friday', 'cant', 'wait', 'dunno', 'wot', 'hell', 'im', 'gonna', 'another', '3', 'week', 'become', 'slob', 'oh', 'wait', 'already', 'done']",ham
+"['vote', 'wherever', 'heart', 'guide']",ham
+"['ü', 'go', 'buy', 'wif', 'meet', 'ü', 'later']",ham
+"['ya', 'nice', 'ready', 'thursday']",ham
+"['great', 'day', 'beautiful', 'one']",ham
+"['yo', 'carlos', 'friend', 'already', 'asking', 'working', 'weekend']",ham
+"['wishing', 'great', 'day', 'moji', 'told', 'offer', 'always', 'speechless', 'offer', 'easily', 'go', 'great', 'length', 'behalf', 'stunning', 'exam', 'next', 'friday', 'keep', 'touch', 'sorry']",ham
+"['waited', 'yesterday']",ham
+"['oh', 'k', 'think', 'wi', 'nz', 'player', 'unsold']",ham
+"['got', 'meh']",ham
+[],ham
+"['going', '2', 'orchard', 'laready', 'reaching', 'soon', 'u', 'reaching']",ham
+"['lover', 'need']",ham
+"['da', 'whats', 'plan']",ham
+"['forgot', 'take', '3', 'year', 'shower', 'sorry', 'phone', 'dead', 'yet']",ham
+"['might', 'ax', 'well', 'im']",ham
+"['u', 'secret', 'admirer', 'looking', '2', 'make', 'contact', 'u', 'find', 'r', 'reveal', 'think', 'ur', 'special', 'call', '09065171142', 'stopsms', '08']",spam
+"['1', 'nokia', 'tone', '4', 'ur', 'mob', 'every', 'week', 'txt', 'nok', '87021', '1st', 'tone', 'free', 'get', 'txtin', 'tell', 'ur', 'friend', '150p', 'tone', '16', 'reply', 'hl', '4info']",spam
+"['bring', 'got']",ham
+"['sorry', 'call', 'later']",ham
+"['one', 'joy', 'lifeis', 'waking', 'daywith', 'thought', 'somewheresomeone', 'care', 'enough', 'tosend', 'warm', 'morning', 'greeting']",ham
+"['u', 'ask', 'next', 'sat', 'make', 'ok', 'lor']",ham
+"['objection', 'bf', 'coming']",ham
+"['started', 'searching', 'get', 'job', 'day', 'great', 'potential', 'talent']",ham
+"['everything', 'weather', 'keep', 'extra', 'warm', 'cold', 'nothing', 'serious', 'pls', 'lot', 'vitamin', 'c']",ham
+"['keep', 'payasam', 'rinu', 'brings']",ham
+"['sorry', 'call', 'later']",ham
+"['haha', 'friend', 'tyler', 'literally', 'asked', 'could', 'get', 'dubsack']",ham
+"['hope', 'great', 'day']",ham
+"['maybe', 'westshore', 'hyde', 'park', 'village', 'place', 'near', 'house']",ham
+"['take', 'something', 'pain', 'move', 'however', 'side', 'next', '6hrs', 'see', 'doctor']",ham
+"['great', 'aunt', 'anniversary', 'party', 'tarpon', 'spring']",ham
+"['guaranteed', '200', 'award', 'even', '1000', 'cashto', 'claim', 'ur', 'award', 'call', 'free', '08000407165', '18', '2', 'stop', 'getstop', '88222', 'php', 'rg21', '4jx']",spam
+"['best', 'line', 'said', 'love', 'wait', 'till', 'day', 'forget', 'u', 'day', 'u', 'realize', 'u', 'cannot', 'forget', 'gn']",ham
+"['wen', 'get', 'spiritual', 'deep', 'great']",ham
+"['ok', 'ok', 'ok', 'whats', 'ur', 'today', 'plan']",ham
+"['sending', 'greeting', 'joy', 'happiness', 'gr8', 'evening']",ham
+"['going', 'college', 'pa', 'else', 'ill', 'come', 'self', 'pa']",ham
+"['dear', 'call']",ham
+"['hey', 'sathya', 'till', 'dint', 'meet', 'even', 'single', 'time', 'saw', 'situation', 'sathya']",ham
+"['new', '2', 'club', 'dont', 'fink', 'met', 'yet', 'b', 'gr8', '2', 'c', 'u', 'please', 'leave', 'msg', '2day', 'wiv', 'ur', 'area', '09099726553', 'reply', 'promised', 'carlie', 'x', 'calls', '1', 'minmobsmore', 'lkpobox177hp51fl']",spam
+"['private', '2003', 'account', 'statement', 'fone', 'show', '800', 'un', 'redeemed', 'point', 'call', '08715203656', 'identifier', 'code', '42049', 'expires', '26', '10', '04']",spam
+"['go', 'opening', 'room', 'til', 'thanksgiving', 'without', 'upcharge']",ham
+"['guess', 'got', 'screwd']",ham
+"['look', 'amy', 'ure', 'beautiful', 'intelligent', 'woman', 'like', 'u', 'lot', 'know', 'u', 'like', 'like', 'worry']",ham
+"['2nd', 'time', 'tried', '2', 'contact', 'u', 'u', '750', 'pound', 'prize', '2', 'claim', 'easy', 'call', '08718726970', '10p', 'per', 'min', 'bt', 'national', 'rate']",spam
+"['wondering', 'others', 'took']",ham
+"['moon', 'come', 'color', 'dream', 'stars', 'make', 'musical', 'sms', 'give', 'warm', 'peaceful', 'sleep', 'good', 'night']",ham
+"['please', 'protect', 'e', 'threat', 'sib', 'never', 'asks', 'sensitive', 'information', 'like', 'passwords', 'atm', 'sms', 'pin', 'thru', 'email', 'never', 'share', 'password', 'anybody']",ham
+"['whos', 'class']",ham
+"['poor', 'girl', 'go', 'one', 'day', 'lmao']",ham
+"['hey', 'look', 'like', 'wrong', 'one', 'kappa', 'guy', 'number', 'still', 'phone', 'want', 'text', 'see', 'around']",ham
+"['call', 'meet']",ham
+"['sleeping', 'surfing']",ham
+"['pick', 'bout', '7', '30ish', 'time', 'going']",ham
+"['say', 'slowly', 'god', 'love', 'amp', 'need', 'clean', 'heart', 'blood', 'send', 'ten', 'special', 'people', 'amp', 'u', 'c', 'miracle', 'tomorrow', 'pls', 'pls']",ham
+"['im', 'snowboarding', 'trip', 'wondering', 'planning', 'get', 'everyone', 'together', 'befor', 'go', 'meet', 'greet', 'kind', 'affair', 'cheers']",ham
+"['u', 'come', 'n', 'search', 'tat', 'vid', 'finishd']",ham
+"['yup', 'finished', 'c', 'ü']",ham
+"['good', 'morning', 'dear', 'great', 'amp', 'successful', 'day']",ham
+"['still', 'west', 'coast', 'haiz', 'ü', 'take', 'forever', 'come', 'back']",ham
+"['haha', 'money', 'leh', 'later', 'got', 'go', 'tuition', 'haha', 'looking', 'empty', 'slot', 'driving', 'lesson']",ham
+"['discount', 'code', 'rp176781', 'stop', 'message', 'reply', 'stop', 'www', 'regalportfolio', 'co', 'uk', 'customer', 'services', '08717205546']",spam
+"['ü', 'neva', 'tell', 'noe', 'home', 'da', 'aft', 'wat']",ham
+"['many', 'people', 'seems', 'special', 'first', 'sight', 'remain', 'special', 'till', 'last', 'sight', 'maintain', 'till', 'life', 'end', 'take', 'cr', 'da']",ham
+"['e', 'admin', 'building', 'might', 'b', 'slightly', 'earlier', 'call', 'u', 'reaching']",ham
+"['someone', 'u', 'know', 'asked', 'dating', 'service', '2', 'contact', 'cant', 'guess', 'call', '09058095107', 'revealed', 'pobox', '7', 's3xy', '150p']",spam
+"['da', 'good', 'good', 'player', 'unsold']",ham
+"['give', 'everything', 'want', 'need', 'actually', 'could', 'better', 'yor', 'got', 'money', 'get', 'work', 'get', 'man', 'pay', 'rent', 'even', 'fill', 'fucking', 'gas', 'tank', 'yes', 'stressed', 'depressed', 'even', 'call', 'home', 'thanksgiving', 'cuz', 'tell', 'nothing']",ham
+"['ok', 'thanx', 'take', 'care']",ham
+"['please', 'sen', 'kind', 'advice', 'please', 'come', 'try']",ham
+"['huh', 'fast', 'dat', 'mean', 'u', 'havent', 'finished', 'painting']",ham
+"['give', 'something', 'drink', 'take', 'vomit', 'temp', 'might', 'drop', 'unmits', 'however', 'let', 'know']",ham
+"['home', 'way']",ham
+"['lol', 'alright', 'thinkin', 'haha']",ham
+"['night', 'ended', 'another', 'day', 'morning', 'come', 'special', 'way', 'may', 'smile', 'like', 'sunny', 'ray', 'leaf', 'worry', 'blue', 'blue', 'bay', 'gud', 'mrng']",ham
+"['lt', 'gt', 'pple', 'marry', 'lover', 'becz', 'hav', 'gud', 'undrstndng', 'dat', 'avoids', 'problem', 'sent', 'dis', '2', 'u', 'u', 'wil', 'get', 'gud', 'news', 'friday', 'person', 'like', 'tomorrow', 'best', 'day', 'life', 'dont', 'break', 'chain', 'break', 'suffer', 'send', 'lt', 'gt', 'frnds', 'lt', 'gt', 'min', 'whn', 'u', 'read']",ham
+"['surely', 'result', 'offer']",ham
+"['keep', 'ten', 'r', 'shelf', 'buy', 'two', 'egg']",ham
+"['justbeen', 'overa', 'week', 'since', 'broke', 'already', 'brain', 'going', 'mush']",ham
+"['way', 'rencontre', 'meet', 'mountains', 'dont']",ham
+"['hot', 'live', 'fantasies', 'call', '08707509020', '20p', 'per', 'min', 'ntt', 'ltd', 'po', 'box', '1327', 'croydon', 'cr9', '5wb', '0870', 'national', 'rate', 'call']",spam
+"['actually', 'mobile', 'full', 'msg', 'work', 'online', 'need', 'send', 'lt', 'gt', 'sent', 'msg', 'wil', 'explain', 'u', 'later']",ham
+"['congratulations', 'thanks', 'good', 'friend', 'u', '2', '000', 'xmas', 'prize', '2', 'claim', 'easy', 'call', '08718726978', '10p', 'per', 'minute', 'bt', 'national', 'rate']",spam
+"['cant', 'pick', 'phone', 'right', 'pls', 'send', 'message']",ham
+"['cant', 'pick', 'phone', 'right', 'pls', 'send', 'message']",ham
+"['well', 'still', 'bit', 'left', 'guy', 'want', 'tonight']",ham
+"['got', 'lt', 'gt', 'way', 'could', 'pick']",ham
+"['ha', 'ha', 'nan', 'yalrigu', 'heltini', 'iyo', 'kothi', 'chikku', 'u', 'shared', 'many', 'thing', 'wit', 'far', 'told', 'body', 'even', 'uttered', 'word', 'abt', 'u', 'ur', 'trusting', 'much', 'tell', 'others', 'plz', 'nxt', 'time', 'dont', 'use', 'word', 'ok', 'chikku', 'b']",ham
+"['smith', 'waste', 'da', 'wanna', 'gayle']",ham
+"['thought', 'put', 'back', 'box']",ham
+"['lol', 'well', 'without', 'could', 'big', 'sale', 'together']",ham
+"['join', 'uk', 'horniest', 'dogging', 'service', 'u', 'sex', '2nite', 'sign', 'follow', 'instruction', 'txt', 'entry', '69888', 'nyt', 'ec2a', '3lp', 'msg', '150p']",spam
+"['haha', 'cant', 'tmr', 'forfeit', 'haha']",ham
+"['pls', 'dont', 'restrict', 'eating', 'anythin', 'like', 'next', 'two', 'day']",ham
+"['oi', 'ami', 'parchi', 'na', 'kicchu', 'kaaj', 'korte', 'iccha', 'korche', 'na', 'phone', 'ta', 'tul', 'na', 'plz', 'plz']",ham
+"['free', 'call', 'sir', 'waiting']",ham
+"['k', 'fyi', 'back', 'parent', 'place', 'south', 'tampa', 'might', 'need', 'deal', 'somewhere', 'else']",ham
+"['text', 'get', 'call', 'phone', 'problem']",ham
+"['today', 'iz', 'yellow', 'rose', 'day', 'u', 'love', 'frndship', 'give', '1', 'misscall', 'amp', 'send', 'ur', 'frndz', 'amp', 'see', 'many', 'miss', 'call', 'u', 'get', 'u', 'get', '6missed', 'u', 'marry', 'ur', 'lover']",ham
+"['miss', 'much', 'desparate', 'recorded', 'message', 'left', 'day', 'listen', 'hear', 'sound', 'voice', 'love']",ham
+"['great', 'office', 'today']",ham
+"['ask', 'g', 'iouri', 'told', 'story', 'like', 'ten', 'time', 'already']",ham
+"['hi', 'darlin', 'kate', 'u', 'doin', 'somethin', 'tonight', 'im', 'going', 'pub', 'called', 'swan', 'something', 'parents', 'one', 'drink', 'phone', 'u']",ham
+['looking'],ham
+"['petey', 'boy', 'whereare', 'friendsare', 'thekingshead', 'come', 'canlove', 'nic']",ham
+"['long', 'take', 'get']",ham
+"['leave', 'de', 'start', 'prepare', 'next']",ham
+"['prob', 'send', 'email']",ham
+"['nothing', 'ok', 'anyway', 'give', 'treat']",ham
+"['nice', 'pub', 'near', 'frankie', 'n', 'bennys', 'near', 'warner', 'cinema']",ham
+"['yup', 'ok', 'go', 'home', 'look', 'timing', 'msg', 'ü', 'xuhui', 'going', 'learn', '2nd', 'may', 'lesson', '8am']",ham
+"['good', 'evening', 'sir', 'al', 'salam', 'wahleykkum', 'sharing', 'happy', 'news', 'grace', 'god', 'got', 'offer', 'tayseer', 'tissco', 'joined', 'hope', 'fine', 'inshah', 'allah', 'meet', 'sometime', 'rakhesh', 'visitor', 'india']",ham
+"['important', 'information', '4', 'orange', 'user', 'today', 'lucky', 'day', '2find', 'log', 'onto', 'http', 'www', 'urawinner', 'com', 'fantastic', 'surprise', 'awaiting']",spam
+"['seriously', 'spell', 'name']",ham
+"['good', 'evening', 'ttyl']",ham
+"['hurry', 'home', 'u', 'big', 'butt', 'hang', 'last', 'caller', 'u', 'food', 'done', 'starving', 'ask', 'cooked']",ham
+"['uh', 'head', 'much', 'left']",ham
+"['guaranteed', '32000', 'award', 'maybe', 'even', '1000', 'cash', 'claim', 'ur', 'award', 'call', 'free', '0800', '18', 'legitimat', 'efreefone', 'number', 'wat', 'u', 'think']",spam
+"['want', 'tel', 'u', 'one', 'thing', 'u', 'mistake', 'k', 'message', 'sent']",ham
+"['smile', 'right', 'go', 'world', 'wonder', 'smiling', 'think', 'crazy', 'keep', 'away', 'grin']",ham
+"['happy', 'sad', 'one', 'thing', 'past', 'good', 'morning']",ham
+"['outside', 'office', 'take']",ham
+"['yeah', 'get', 'random', 'dude', 'need', 'change', 'info', 'sheet', 'party', 'lt', 'gt', '7', 'never', 'study', 'safe']",ham
+"['urgent', 'please', 'call', '0906346330', 'abta', 'complimentary', '4', 'spanish', 'holiday', '10', '000', 'cash', 'await', 'collection', 'sae', 'cs', 'box', '47', 'po19', '2ez', '150ppm', '18']",spam
+"['urgent', 'mobile', 'number', 'awarded', 'ukp', '2000', 'prize', 'guaranteed', 'call', '09061790125', 'landline', 'claim', '3030', 'valid', '12hrs', '150ppm']",spam
+"['cheers', 'lou', 'yeah', 'goodnite', 'shame', 'u', 'neva', 'came', 'c', 'ya', 'gailxx']",ham
+"['whenever', 'see', 'still', 'hook']",ham
+"['yo', 'around', 'friend', 'mine', 'lookin', 'pick', 'later', 'tonight']",ham
+"['k', 'take', 'care']",ham
+"['outside', 'island', 'head', 'towards', 'hard', 'rock', 'run']",ham
+"['freemsg', 'feelin', 'kinda', 'lnly', 'hope', 'u', 'like', '2', 'keep', 'company', 'jst', 'got', 'cam', 'moby', 'wanna', 'c', 'pic', 'txt', 'reply', 'date', '82242', 'msg150p', '2rcv', 'hlp', '08712317606', 'stop', '82242']",spam
+"['yo', 'gonna', 'still', 'stock', 'tomorrow', 'today', 'trying', 'get', 'dubsack']",ham
+"['santa', 'calling', 'would', 'little', 'one', 'like', 'call', 'santa', 'xmas', 'eve', 'call', '09077818151', 'book', 'time', 'calls1', '50ppm', 'last', '3mins', '30', 'c', 'www', 'santacalling', 'com']",spam
+"['wud', 'never', 'mind', 'u', 'dont', 'miss', 'u', 'dont', 'need', 'u', 'wil', 'really', 'hurt', 'wen', 'u', 'need', 'amp', 'u', 'dont', 'tell', 'take', 'care']",ham
+"['tap', 'spile', 'seven', 'pub', 'gas', 'st', 'broad', 'st', 'canal', 'ok']",ham
+"['hope', 'settled', 'new', 'school', 'year', 'wishin', 'gr8', 'day']",ham
+"['orh', 'tot', 'u', 'say', 'still', 'dun', 'believe']",ham
+"['town', 'jus', 'take', 'mrt', 'later']",ham
+"['garbage', 'bag', 'egg', 'jam', 'bread', 'hannaford', 'wheat', 'chex']",ham
+"['hi', 'asked', 'waheeda', 'fathima', 'leave']",ham
+"['nice', 'talking', 'please', 'dont', 'forget', 'pix', 'want', 'see']",ham
+"['ok', 'lar', 'joking', 'wif', 'u', 'oni']",ham
+"['u', 'win', '100', 'music', 'gift', 'vouchers', 'every', 'week', 'starting', 'txt', 'word', 'draw', '87066', 'tscs', 'www', 'idew', 'com', 'skillgame', '1winaweek', 'age16', '150ppermesssubscription']",spam
+"['lol', 'mad', 'first', 'woke', 'gave']",ham
+"['good', 'morning', 'plz', 'call', 'sir']",ham
+"['sorry', 'bathroom', 'sup']",ham
+"['yeh', 'indians', 'nice', 'tho', 'kane', 'bit', 'shud', 'go', '4', 'drink', 'sometime', 'soon', 'mite', 'hav', '2', 'go', '2', 'da', 'work', '4', 'laugh', 'soon', 'love', 'pete', 'x', 'x']",ham
+"['problem', 'baby', 'good', 'time', 'talk', 'called', 'left', 'message']",ham
+"['together', 'thinkin']",ham
+"['edison', 'rightly', 'said', 'fool', 'ask', 'question', 'wise', 'man', 'answer', 'know', 'u', 'speechless', 'viva', 'gm', 'gn', 'ge', 'gnt']",ham
+"['u', 'dogbreath', 'sounding', 'like', 'jan', 'c', 'al']",ham
+"['wot', 'u', '2', 'bitch']",ham
+"['dear', 'mood', 'cant', 'drive', 'brother', 'drive']",ham
+"['know', 'old', 'dom', 'told', 'yesterday', 'name', 'roger', 'got', 'touch', 'last', 'night', 'want', 'meet', 'today', '2', 'pm']",ham
+"['okay', 'soon', 'best']",ham
+"['de', 'looking', 'good']",ham
+"['yes', 'really', 'great', 'bhaji', 'told', 'kallis', 'best', 'cricketer', 'sachin', 'world', 'tough', 'get']",ham
+"['good', 'word', 'word', 'may', 'leave', 'u', 'dismay', 'many', 'time']",ham
+"['boy', 'love', 'u', 'grl', 'hogolo', 'boy', 'gold', 'chain', 'kodstini', 'grl', 'agalla', 'boy', 'necklace', 'madstini', 'grl', 'agalla', 'boy', 'hogli', '1', 'mutai', 'eerulli', 'kodthini', 'grl', 'love', 'u', 'kano']",ham
+"['500', 'new', 'mobiles', '2004', 'must', 'go', 'txt', 'nokia', '89545', 'collect', 'today', '1', 'www', '4', 'tc', 'biz', '2optout', '087187262701', '50gbp', 'mtmsg18', 'txtauction']",spam
+"['bishan', 'lei', 'tot', 'ü', 'say', 'lavender']",ham
+"['gonna', 'get', 'rimac', 'access']",ham
+"['rose', 'red', 'red', 'blood', 'blood', 'heart', 'heart', 'u', 'u', 'send', 'ti', 'ur', 'friend', 'including', 'u', 'like', 'u', 'get', 'back', '1', 'u', 'r', 'poor', 'relation', '2', 'u', 'need', '1', 'support', '3', 'u', 'r', 'frnd', '2', 'many', '4', 'some1', 'luvs', 'u', '5', 'some1', 'praying', 'god', 'marry', 'u', 'try']",ham
+"['lol', 'grin', 'babe', 'thanks', 'thinking']",ham
+"['87077', 'kick', 'new', 'season', '2wks', 'free', 'goal', 'news', 'ur', 'mobile', 'txt', 'ur', 'club', 'name', '87077', 'eg', 'villa', '87077']",spam
+"['important', 'information', '4', 'orange', 'user', '0789xxxxxxx', 'today', 'lucky', 'day', '2find', 'log', 'onto', 'http', 'www', 'urawinner', 'com', 'fantastic', 'surprise', 'awaiting']",spam
+"['telly', 'brdget', 'jones']",ham
+"['meet', 'ü', '5', '4', 'depends', 'ü', 'wan', '2', 'lor']",ham
+"['well', 'must', 'pain', 'catch']",ham
+"['got', 'got', '2', 'colour', 'lor', 'one', 'colour', 'quite', 'light', 'n', 'e', 'darker', 'lor', 'actually', 'done', 'styling', 'hair']",ham
+"['urgent', 'mobile', 'awarded', '2', '000', 'bonus', 'caller', 'prize', '02', '09', '03', '2nd', 'attempt', 'contact', 'call', '0871', '872', '9755', 'box95qu']",spam
+"['last', 'chance', 'claim', 'ur', '150', 'worth', 'discount', 'voucher', 'today', 'text', 'shop', '85023', 'savamob', 'offer', 'mobile', 'cs', 'savamob', 'pobox84', 'm263uz', '3', '00', 'sub', '16']",spam
+"['hi', 'darlin', 'im', 'helen', 'fone', 'im', 'gonna', 'b', 'prince', '2', 'nite', 'please', 'come', 'tb', 'love', 'kate']",ham
+"['mobile', '11mths', 'update', 'free', 'oranges', 'latest', 'colour', 'camera', 'mobile', 'unlimited', 'weekend', 'call', 'call', 'mobile', 'upd8', 'freefone', '08000839402', '2stoptxt']",spam
+"['finished', 'missing', 'plenty']",ham
+"['well', 'uv', 'cause', 'mutation', 'sunscreen', 'like', 'essential', 'thesedays']",ham
+"['guaranteed', '1000', 'cash', '2000', 'prize', 'claim', 'yr', 'prize', 'call', 'customer', 'service', 'representative', '08714712379', '10am', '7pm', 'cost', '10p']",spam
+"['ü', 'still', 'attending', 'da', 'talk']",ham
+"['urgent', 'last', 'weekend', 'draw', 'show', '1000', 'cash', 'spanish', 'holiday', 'call', '09050000332', 'claim', 'c', 'rstm', 'sw7', '3ss', '150ppm']",spam
+"['work', 'please', 'call']",ham
+"['easy', 'ah', 'sen', 'got', 'selected', 'mean', 'good']",ham
+"['lord', 'rings', 'return', 'king', 'store', 'reply', 'lotr', '2', 'june', '4', 'chance', '2', 'win', 'lotr', 'soundtrack', 'cds', 'stdtxtrate', 'reply', 'stop', 'end', 'txts']",spam
+"['u', 'goin', '2nite']",ham
+"['yes', 'said']",ham
+"['anyway', 'think', 'secure', 'anything', 'lemme', 'know', 'want', 'drive', 'south', 'chill']",ham
+"['k', 'head', 'min', 'see']",ham
+"['drop', 'tank']",ham
+"['freemsg', 'awarded', 'free', 'mini', 'digital', 'camera', 'reply', 'snap', 'collect', 'prize', 'quizclub', 'opt', 'stop', '80122300p', 'wk', 'sp', 'rwm', 'ph', '08704050406']",spam
+"['hope', 'result', 'consistently', 'intelligent', 'kind', 'start', 'asking', 'practicum', 'link', 'keep', 'ear', 'open', 'best', 'ttyl']",ham
+"['new', 'theory', 'argument', 'win', 'situation', 'loses', 'person', 'dont', 'argue', 'ur', 'friend', 'kick', 'amp', 'say', 'always', 'correct']",ham
+"['okay', 'going', 'sleep', 'later']",ham
+"['hey', 'babe', 'friend', 'cancel', 'still', 'visit']",ham
+"['u', 'turn', 'heater', 'heater', 'set', 'lt', 'gt', 'degree']",ham
+"['sorry', 'im', 'getting', 'feel', 'really', 'bad', 'totally', 'rejected', 'kinda', 'thing']",ham
+"['k', 'k', 'pa', 'lunch', 'aha']",ham
+"['good', 'swimsuit', 'allowed']",ham
+"['absolutely', 'love', 'south', 'park', 'recently', 'started', 'watching', 'office']",ham
+"['short', 'cute', 'good', 'person', 'dont', 'try', 'prove', 'gud', 'noon']",ham
+"['sorry', 'hurt']",ham
+"['come', 'home', 'one', 'last', 'time', 'wont', 'anything', 'trust']",ham
+"['company', 'good', 'environment', 'terrific', 'food', 'really', 'nice']",ham
+"['leaving', 'qatar', 'tonite', 'search', 'opportunity', 'went', 'fast', 'pls', 'add', 'ur', 'prayer', 'dear', 'rakhesh']",ham
+"['luton', '0125698789', 'ring', 'ur', 'around', 'h']",ham
+"['mila', 'age23', 'blonde', 'new', 'uk', 'look', 'sex', 'uk', 'guy', 'u', 'like', 'fun', 'text', 'mtalk', '69866', '18', '30pp', 'txt', '1st', '5free', '1', '50', 'increment', 'help08718728876']",spam
+"['one', 'stalk', 'profile']",ham
+"['hi', 'jon', 'pete', 'ive', 'bin', '2', 'spain', 'recently', 'hav', 'sum', 'dinero', 'left', 'bill', 'said', 'u', 'ur', 'rent', 'mayb', 'interested', 'hav', '12', '000pes', 'around', '48', 'tb', 'james']",ham
+"['like', 'shaking', 'booty', 'dance', 'floor']",ham
+"['awesome', 'text', 'restocked']",ham
+[],ham
+"['cheers', 'u', 'tex', 'mecause', 'u', 'werebored', 'yeah', 'okden', 'hunny', 'r', 'uin', 'wk', 'sat', 'sound', 'likeyour', 'havin', 'gr8fun', 'j', 'keep', 'updat', 'countinlots', 'loveme', 'xxxxx']",ham
+"['world', 'happiest', 'frnds', 'never', 'character', 'dey', 'best', 'understanding', 'difference']",ham
+"['hey', 'mate', 'spoke', 'mag', 'people', 'deliver', 'end', 'month', 'deliver', '24th', 'sept', 'talk', 'later']",ham
+"['might', 'accidant', 'tookplace', 'somewhere', 'ghodbandar', 'rd', 'traffic', 'move', 'slovely', 'plz', 'slip', 'amp', 'worry']",ham
+"['oh', 'mr', 'sheffield', 'wanna', 'play', 'game', 'okay', 'bos', 'nanny', 'give', 'raise', 'give', 'one']",ham
+"['send', 'resume']",ham
+"['going', '4', 'dinner', 'soon']",ham
+"['reverse', 'cheating', 'mathematics']",ham
+"['mum', 'repent']",ham
+"['sorry', 'help']",ham
+"['one', 'talking']",ham
+"['none', 'nowhere', 'ikno', 'doesdiscount', 'shitinnit']",ham
+"['yes', 'rent', 'expensive', 'way', 'save']",ham
+"['hi', 'hope', 'good', 'day', 'better', 'night']",ham
+"['da', 'al', 'r', 'lt', 'gt']",ham
+"['ok', 'ill', 'send', 'lt', 'decimal', 'gt', 'ok']",ham
+"['get', 'step', '2', 'outta', 'way', 'congrats']",ham
+"['hey', 'late', 'ah', 'meet', '945']",ham
+"['come', 'home', 'want', 'u', 'miserable']",ham
+"['fine', 'got', 'enough', 'bud', 'last', 'night', 'least']",ham
+"['come', 'n', 'pick', 'ü', 'come', 'immediately', 'aft', 'ur', 'lesson']",ham
+"['claire', 'havin', 'borin', 'time', 'alone', 'u', 'wanna', 'cum', '2nite', 'chat', '09099725823', 'hope', '2', 'c', 'u', 'luv', 'claire', 'xx', 'calls', '1', 'minmoremobsemspobox45po139wa']",spam
+"['havent', 'add', 'ü', 'yet', 'right']",ham
+"['k', 'come', 'wenever', 'u', 'lik', 'come', 'also', 'tel', 'vikky', 'come', 'getting', 'free', 'time']",ham
+"['urgent', 'trying', 'contact', 'u', 'todays', 'draw', 'show', '800', 'prize', 'guaranteed', 'call', '09050001808', 'land', 'line', 'claim', 'm95', 'valid12hrs']",spam
+"['alright', 'set', 'text', 'man']",ham
+"['god', 'asked', 'forgiveness', 'little', 'child', 'gave', 'lovely', 'reply', 'wonderful', 'fruit', 'tree', 'give', 'hurt', 'stone', 'good', 'night']",ham
+[],ham
+"['think', 'going', 'finn', 'come']",ham
+"['get', 'gift', 'year', 'didnt', 'get', 'anything', 'bad']",ham
+"['summers', 'finally', 'fancy', 'chat', 'flirt', 'sexy', 'single', 'yr', 'area', 'get', 'matched', 'reply', 'summer', 'free', '2', 'join', 'optout', 'txt', 'stop', 'help08714742804']",spam
+"['started', 'skye']",ham
+"['jokin', 'lar', 'depends', 'phone', 'father', 'get', 'lor']",ham
+"['shuhui', 'say', 'change', '2', 'suntec', 'steamboat', 'u', 'noe', 'r', 'u']",ham
+"['babe', 'hope', 'ok', 'shit', 'night', 'sleep', 'fell', 'asleep', '5', 'knackered', 'dreading', 'work', 'tonight', 'thou', 'upto', 'tonight', 'x']",ham
+"['oh', 'asked', 'fun', 'haha', 'take', 'care', 'ü']",ham
+"['car', 'hour', 'half', 'going', 'apeshit']",ham
+"['winner', 'specially', 'selected', 'receive', '1000', 'cash', '2000', 'award', 'speak', 'live', 'operator', 'claim', 'call', '087123002209am', '7pm', 'cost', '10p']",spam
+"['yep', 'pretty', 'sculpture']",ham
+"['say', 'good', 'sign', 'well', 'know', 'track', 'record', 'reading', 'woman']",ham
+"['7', 'esplanade', 'ü', 'mind', 'giving', 'lift', 'co', 'got', 'car', 'today']",ham
+"['much', 'blackberry', 'bold2', 'nigeria']",ham
+"['25p', '4', 'alfie', 'moon', 'children', 'need', 'song', 'ur', 'mob', 'tell', 'ur', 'm8s', 'txt', 'tone', 'charity', '8007', 'nokias', 'poly', 'charity', 'polys', 'zed', '08701417012', 'profit', '2', 'charity']",spam
+['seeing'],ham
+"['evening', 'v', 'good', 'somewhat', 'event', 'laden', 'fill', 'worry', 'head', 'ok', 'throat', 'wrecked', 'see', 'six']",ham
+"['say', 'slowly', 'god', 'love', 'amp', 'need', 'clean', 'heart', 'blood', 'send', 'ten', 'special', 'people', 'amp', 'u', 'c', 'miracle', 'tomorrow', 'pls', 'pls']",ham
+"['aight', 'well', 'keep', 'informed']",ham
+"['yes', 'place', 'town', 'meet', 'exciting', 'adult', 'single', 'uk', 'txt', 'chat', '86688', '150p', 'msg']",spam
+"['hamster', 'dead', 'hey', 'tmr', 'meet', '1pm', 'orchard', 'mrt']",ham
+"['almost', 'see', 'u', 'sec']",ham
+"['darren', 'saying', 'dat', 'u', 'meeting', 'da', 'ge', 'den', 'dun', 'meet', '4', 'dinner', 'cos', 'later', 'u', 'leave', 'xy', 'feel', 'awkward', 'den', 'u', 'meet', '4', 'lunch', 'lor']",ham
+"['oh', 'fuck', 'sake', 'like', 'tallahassee']",ham
+"['uworld', 'site', 'buying', 'qbank', 'buying', 'self', 'assessment', 'also']",ham
+"['k', 'sent']",ham
+['checking'],ham
+"['ur', 'cash', 'balance', 'currently', '500', 'pound', 'maximize', 'ur', 'cash', 'send', 'cash', '86688', '150p', 'msg', 'cc', '08708800282', 'hg', 'suite342', '2lands', 'row', 'w1j6hl']",spam
+"['donno', 'scorable']",ham
+"['valentine', 'game', 'send', 'dis', 'msg', 'ur', 'friend', '5', 'answer', 'r', 'someone', 'really', 'love', 'u', 'ques', 'colour', 'suit', 'best', 'rply']",ham
+"['cbe', 'really', 'good', 'nowadays', 'lot', 'shop', 'showroom', 'city', 'shaping', 'good']",ham
+"['burger', 'king', 'wanna', 'play', 'footy', 'top', 'stadium', 'get', '2', 'burger', 'king', '1st', 'sept', 'go', 'large', 'super', 'coca', 'cola', 'walk', 'winner']",spam
+"['really', 'tot', 'ur', 'paper', 'ended', 'long', 'ago', 'wat', 'u', 'copied', 'jus', 'got', 'use', 'u', 'happy', 'lar', 'still', 'haf', '2', 'study']",ham
+"['freemsg', 'fav', 'xmas', 'tones', 'reply', 'real']",spam
+"['winner', 'specially', 'selected', 'receive', '1000', 'cash', '2000', 'award', 'speak', 'live', 'operator', 'claim', 'call', '087147123779am', '7pm', 'cost', '10p']",spam
+"['congratulations', 'ur', 'awarded', '500', 'cd', 'voucher', '125gift', 'guaranteed', 'free', 'entry', '2', '100', 'wkly', 'draw', 'txt', 'music', '87066', 'tncs', 'www', 'ldew', 'com1win150ppmx3age16']",spam
+"['never', 'believe', 'actually', 'got', 'taunton', 'wow']",ham
+"['thank', 'u', 'better', 'work', 'cause', 'feel', 'used', 'otherwise']",ham
+"['ok', 'let', 'noe', 'later', 'n', 'ask', 'call', 'u', 'tmr']",ham
+"['tot', 'u', 'outside', 'co', 'darren', 'say', 'u', 'come', 'shopping', 'course', 'nice', 'wat', 'jus', 'went', 'sim', 'lim', 'look', 'mp3', 'player']",ham
+"['helloooo', 'wake', 'sweet', 'morning', 'welcome', 'enjoy', 'day', 'full', 'joy', 'gud', 'mrng']",ham
+"['thanks', 'love', 'torch', 'bold']",ham
+"['cant', 'pick', 'phone', 'right', 'pls', 'send', 'message']",ham
+"['found', 'diff', 'farm', 'shop', 'buy', 'cheese', 'way', 'back', 'call']",ham
+['pick'],ham
+"['lol', 'would', 'awesome', 'payback']",ham
+"['text', 'carlos', 'let', 'know', 'hang']",ham
+"['hot', 'live', 'fantasies', 'call', '08707509020', '20p', 'per', 'min', 'ntt', 'ltd', 'po', 'box', '1327', 'croydon', 'cr9', '5wb', '0870', 'k']",spam
+"['tell', 'make', 'little', 'spreadsheet', 'track', 'whose', 'idea', 'smoke', 'determine', 'smoke', 'much', 'entire', 'month', 'february', 'come']",ham
+"['u', 'got', 'person', 'story']",ham
+"['pick', 'ur', 'fone', 'u', 'dumb']",ham
+"['time', 'coming', 'later']",ham
+"['damn', 'make', 'tonight', 'want', 'wait', 'til', 'tomorrow']",ham
+"['hey', 'rite', 'u', 'put', '10', 'evey', 'mnth']",ham
+"['world', 'famamus']",ham
+"['hey', 'got', 'mail']",ham
+"['pleassssssseeeeee', 'tel', 'v', 'avent', 'done', 'sportsx']",ham
+"['okay', 'wait', 'ah']",ham
+"['haha', 'thinkin']",ham
+"['sure', 'thing', 'big', 'man', 'hockey', 'election', '6', 'go', 'longer', 'hour', 'though']",ham
+"['hey', 'happen', 'de', 'alright']",ham
+"['tmr', 'timin', 'still', 'da', 'wat', 'co', 'got', 'lesson', '6']",ham
+"['got', 'shitload', 'diamond', 'though']",ham
+"['hi', 'babe', 'chloe', 'r', 'u', 'smashed', 'saturday', 'night', 'great', 'weekend', 'u', 'missing', 'sp', 'visionsms', 'com', 'text', 'stop', 'stop', '150p', 'text']",spam
+"['gifts', 'trying', 'get', 'throw', 'cliff', 'something']",ham
+"['dance', 'river']",ham
+"['thank', 'u']",ham
+['late'],ham
+"['sorry', 'call', 'later']",ham
+"['tell', 'who', 'pls']",ham
+"['must', 'come', 'later', 'normally', 'bathe', 'da', 'afternoon', 'mah']",ham
+"['told', 'hr', 'want', 'posting', 'chennai', 'working']",ham
+"['haha', 'figure', 'well', 'found', 'piece', 'priscilla', 'bowl']",ham
+"['thanks', 'lovely', 'wisheds', 'rock']",ham
+"['show', 'ur', 'colour', 'euro', '2004', '2', '4', '1', 'offer', 'get', 'england', 'flag', '3lions', 'tone', 'ur', 'phone', 'click', 'following', 'service', 'message', 'info']",spam
+"['brainless', 'baby', 'doll', 'vehicle', 'sariyag', 'drive', 'madoke', 'barolla']",ham
+"['yeah', 'think', 'usual', 'guy', 'still', 'passed', 'last', 'night', 'get', 'ahold', 'anybody', 'let', 'know', 'throw']",ham
+"['urgent', 'mobile', 'number', 'awarded', '2000', 'prize', 'guaranteed', 'call', '09058094454', 'land', 'line', 'claim', '3030', 'valid', '12hrs']",spam
+"['gonna', 'say', 'sorry', 'would', 'normal', 'starting', 'panic', 'time', 'sorry', 'seeing', 'tuesday']",ham
+"['dunno', 'lei', 'thk', 'mum', 'lazy', 'go', 'neva', 'ask', 'yet']",ham
+"['sent', 'jd', 'customer', 'service', 'cum', 'accounts', 'executive', 'ur', 'mail', 'id', 'detail', 'contact', 'u']",ham
+"['ü', 'thk', 'wat', 'eat', 'tonight']",ham
+"['tell', 'reached']",ham
+"['awesome', 'deal', 'gate', 'charles', 'told', 'last', 'night', 'uh', 'yeah']",ham
+"['congratulations', 'winner', 'august', '1000', 'prize', 'draw', 'call', '09066660100', 'prize', 'code', '2309']",spam
+"['sure', 'mean', 'get', 'made', 'hold', 'weed']",ham
+"['good', 'afternoon', 'loverboy', 'go', 'day', 'luck', 'come', 'way', 'think', 'sweetie', 'send', 'love', 'across', 'sea', 'make', 'smile', 'happy']",ham
+"['k', 'deleted', 'contact']",ham
+"['cant', 'wait', 'see', 'photo', 'useful']",ham
+"['check', 'choose', 'babe', 'videos', 'sm', 'shsex', 'netun', 'fgkslpopw', 'fgkslpo']",spam
+"['stop', 'however', 'suggest', 'stay', 'someone', 'able', 'give', 'or', 'every', 'stool']",ham
+"['goodmorning', 'sleeping', 'ga']",ham
+"['barred', 'b', 'q', 'store', 'life', 'twat', 'orange', 'dungerees', 'came', 'asked', 'wanted', 'decking', 'got', 'first', 'punch']",ham
+"['gibbs', 'unsold', 'mike', 'hussey']",ham
+"['im', 'wondering', 'right']",ham
+"['thk', 'shld', 'b', 'ya', 'wana', 'go', '4', 'lesson', 'haha', 'go', 'one', 'whole', 'stretch']",ham
+"['yup', 'giving', 'problem', 'mayb', 'jus', 'leave']",ham
+"['wanna', 'art']",ham
+"['try', 'g', 'decided', 'head']",ham
+"['wat', 'make', 'people', 'dearer', 'de', 'happiness', 'dat', 'u', 'feel', 'u', 'meet', 'de', 'pain', 'u', 'feel', 'u', 'miss', 'dem']",ham
+"['place', 'man']",ham
+"['honeybee', 'said', 'sweetest', 'world', 'god', 'laughed', 'amp', 'said', 'wait', 'u', 'havnt', 'met', 'person', 'reading', 'msg', 'moral', 'even', 'god', 'crack', 'jokes', 'gm', 'gn', 'ge', 'gn']",ham
+"['tuition', '330', 'hm', 'go', '1120', '1205', 'one', 'mind']",ham
+"['sweet', 'well', 'princess', 'please', 'tell', 'like', 'dislike', 'bed']",ham
+"['shit', 'babe', 'thasa', 'bit', 'messed', 'yeh', 'shudvetold', 'u', 'urgran', 'know', 'neway', 'illspeak', '2', 'u2moro', 'wen', 'im', 'asleep']",ham
+"['tension', 'ah', 'machi', 'problem']",ham
+"['good', 'morning', 'boytoy', 'yummy', 'lip', 'sexy', 'bun', 'think', 'crave', 'need']",ham
+"['smoking', 'people', 'use', 'wylie', 'smoke', 'much', 'justify', 'ruining', 'shit']",ham
+"['reading', 'text', 'sent', 'meant', 'joke', 'read', 'light']",ham
+"['sen', 'told', 'going', 'join', 'uncle', 'finance', 'cbe']",ham
+"['drinkin', 'ok']",ham
+"['prize', 'go', 'another', 'customer', 'c', 'www', 'c', 'biz', '18', '150p', 'min', 'polo', 'ltd', 'suite', '373', 'london', 'w1j', '6hl', 'please', 'call', 'back', 'busy']",spam
+"['rgent', '2nd', 'attempt', 'contact', 'u', 'u', '1250', 'call', '09071512433', 'b4', '050703', 'csbcm4235wc1n3xx', 'callcost', '150ppm', 'mobilesvary', 'max', '7', '50']",spam
+"['sunshine', 'hols', 'claim', 'ur', 'med', 'holiday', 'send', 'stamped', 'self', 'address', 'envelope', 'drinks', 'us', 'uk', 'po', 'box', '113', 'bray', 'wicklow', 'eire', 'quiz', 'starts', 'saturday', 'unsub', 'stop']",spam
+"['living', 'simple', 'loving', 'also', 'simple', 'laughing', 'simple', 'winning', 'tooo', 'simple', 'simple', 'difficult', 'gud', 'nte']",ham
+"['ever', 'thought', 'living', 'good', 'life', 'perfect', 'partner', 'txt', 'back', 'name', 'age', 'join', 'mobile', 'community', '100p', 'sms']",spam
+"['always', 'putting', 'business', 'put', 'picture', 'as', 'facebook', 'one', 'open', 'people', 'ever', 'met', 'would', 'think', 'picture', 'room', 'would', 'hurt', 'make', 'feel', 'violated']",ham
+['great'],ham
+"['need', 'ke', 'qi', 'ü', 'bored', 'izzit', 'suddenly', 'thk']",ham
+"['u', 'bin', 'awarded', '50', 'play', '4', 'instant', 'cash', 'call', '08715203028', 'claim', 'every', '9th', 'player', 'wins', 'min', '50', '500', 'optout', '08718727870']",spam
+"['oh', 'k', 'got', 'job', 'whats']",ham
+"['ok', 'chikku', '1', 'favourite', 'song']",ham
+"['sorry', 'meeting', 'call', 'later']",ham
+"['guess', 'spent', 'last', 'night', 'phasing', 'fourth', 'dimension']",ham
+"['got', 'call', 'landline', 'number', 'asked', 'come', 'anna', 'nagar', 'go', 'afternoon']",ham
+"['feb', 'lt', 'gt', 'love', 'u', 'day', 'send', 'dis', 'ur', 'valued', 'frnds', 'evn', '3', 'come', 'back', 'u', 'gt', 'married', 'person', 'u', 'luv', 'u', 'ignore', 'dis', 'u', 'lose', 'ur', 'luv', '4', 'evr']",ham
+"['love', 'wine', 'dine', 'lady']",ham
+"['glad', 'talking']",ham
+"['class', 'hour', 'sorry']",ham
+"['much', 'r', 'ü', 'willing', 'pay']",ham
+"['anything', 'lar', 'ü', 'going', 'home', '4', 'dinner']",ham
+"['seen', 'facebook', 'huh', 'lol']",ham
+"['urgent', 'mobile', '2', '000', 'bonus', 'caller', 'prize', '02', '06', '03', '2nd', 'attempt', 'reach', 'call', '09066362220', 'asap', 'box97n7qp', '150ppm']",spam
+"['good', 'stuff']",ham
