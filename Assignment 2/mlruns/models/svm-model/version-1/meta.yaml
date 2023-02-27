@@ -1,0 +1,12 @@
+creation_timestamp: 1677513156143
+current_stage: None
+description: null
+last_updated_timestamp: 1677513156143
+name: svm-model
+run_id: 74177408c1bf40b7a26e6d57a38b21dc
+run_link: null
+source: file:///c:/Users/pragy/Applied-Machine-Learning/Assignment2/mlruns/0/74177408c1bf40b7a26e6d57a38b21dc/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1

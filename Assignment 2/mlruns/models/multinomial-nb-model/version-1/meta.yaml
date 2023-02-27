@@ -1,0 +1,12 @@
+creation_timestamp: 1677513114191
+current_stage: None
+description: null
+last_updated_timestamp: 1677513114191
+name: multinomial-nb-model
+run_id: 6cab02dd4e164c8da245adfc9586da20
+run_link: null
+source: file:///c:/Users/pragy/Applied-Machine-Learning/Assignment2/mlruns/0/6cab02dd4e164c8da245adfc9586da20/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1
